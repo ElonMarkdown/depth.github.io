@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://elonmarkdown.github.io/depth.github.io</id>
     <title>Gridea</title>
-    <updated>2022-03-30T04:17:31.624Z</updated>
+    <updated>2022-03-30T04:18:54.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://elonmarkdown.github.io/depth.github.io"/>
     <link rel="self" href="https://elonmarkdown.github.io/depth.github.io/atom.xml"/>
@@ -79,6 +79,7 @@ CNAME: 可通过这个选项配置你自己的域名（例如：moyu.life）<br>
 <p>当然，你还可以继续配置其他信息，比如自己的网站名字，头像，页脚，图标等等。</p>
 <p>写作支持markdown格式以及Katex公式</p>
 <p>END</p>
+<p>图片以及部分内容转载于https://awslnotbad.cn/2021/09/12/gridea/</p>
 ]]></content>
     </entry>
 </feed>
